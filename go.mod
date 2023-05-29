@@ -1,4 +1,4 @@
-module github.com/RedeployAB/nackademin-helloworld
+module github.com/GoddessHekate/nackademin-helloworld
 
 go 1.20
 
